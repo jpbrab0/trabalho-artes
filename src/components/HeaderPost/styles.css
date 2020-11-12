@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    margin-top: 18px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+header i{
+    position: absolute;
+    left: 0;
+    cursor: pointer;
+    transition: 0.4s;
+}
+header i:hover{
+    color: #7154c1;
+}
+header i a{
+    text-decoration: none;
+}

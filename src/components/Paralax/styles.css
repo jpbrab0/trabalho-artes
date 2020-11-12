@@ -1,0 +1,22 @@
+.top-container{
+    display: flex;
+    padding: 72px 0;
+    margin: 32px 0;
+    justify-content: space-evenly;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('https://images.memphistours.com/xlarge/bba3f01c0f7468ee9e643f7b56786360.jpg');
+}
+.top-container h1{
+    width: 530px;
+    color: #fff;
+}
+.top-container img{
+    border: 1px solid aqua;
+    border-radius: 13px;
+    width: 30%;
+}

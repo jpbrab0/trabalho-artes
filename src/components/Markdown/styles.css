@@ -1,0 +1,13 @@
+main{
+    width: 40%;
+    font-size: 1.1rem;
+    line-height: 2.5rem;
+    margin: 72px auto;
+}
+main img{
+    width: 100%;
+    margin: 13px 0;
+}
+main h1{
+    margin: 23px 0;
+}
